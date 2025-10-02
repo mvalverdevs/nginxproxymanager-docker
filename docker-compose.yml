@@ -11,11 +11,11 @@ services:
       - /server/nginx/data:/data
       - /server/nginx/letsencrypt:/etc/letsencrypt
     networks:
-      nginx_net:
+      net:
         ipv4_address: 172.18.0.2
 
 networks:
-  nginx_net:
+  net:
     external: false
     driver: bridge
     ipam:
