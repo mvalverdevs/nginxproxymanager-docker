@@ -1,0 +1,13 @@
+2025/09/28 14:21:41 [warn] 351#351: *51467 using uninitialized "server" variable while logging request, client: 35.196.72.99, server: getcaiman.com
+2025/09/28 16:15:00 [warn] 358#358: *52503 using uninitialized "server" variable while logging request, client: 136.115.99.198, server: getcaiman.com
+2025/09/28 21:35:31 [warn] 365#365: *53595 using uninitialized "server" variable while logging request, client: 35.193.79.236, server: getcaiman.com
+2025/09/29 13:33:44 [warn] 380#380: *55857 using uninitialized "server" variable while logging request, client: 34.125.154.215, server: getcaiman.com
+2025/09/29 21:35:09 [warn] 394#394: *57041 using uninitialized "server" variable while logging request, client: 34.125.154.173, server: getcaiman.com
+2025/09/30 10:54:40 [warn] 410#410: *59281 using uninitialized "server" variable while logging request, client: 34.11.12.178, server: getcaiman.com
+2025/09/30 20:56:09 [warn] 424#424: *60404 using uninitialized "server" variable while logging request, client: 35.231.223.42, server: getcaiman.com
+2025/10/01 13:55:08 [warn] 438#438: *64062 using uninitialized "server" variable while logging request, client: 34.14.66.29, server: getcaiman.com
+2025/10/01 21:39:23 [warn] 451#451: *68706 using uninitialized "server" variable while logging request, client: 136.114.252.167, server: getcaiman.com
+2025/10/02 11:12:31 [error] 193#193: *177 web could not be resolved (3: Host not found), client: 83.60.117.94, server: getcaiman.com, request: "GET / HTTP/2.0", host: "getcaiman.com", referrer: "https://nginx.getcaiman.com/"
+2025/10/02 11:12:32 [error] 193#193: *177 web could not be resolved (3: Host not found), client: 83.60.117.94, server: getcaiman.com, request: "GET /favicon.ico HTTP/2.0", host: "getcaiman.com", referrer: "https://getcaiman.com/"
+2025/10/02 11:12:34 [error] 193#193: *177 web could not be resolved (3: Host not found), client: 83.60.117.94, server: getcaiman.com, request: "GET / HTTP/2.0", host: "getcaiman.com", referrer: "https://nginx.getcaiman.com/"
+2025/10/02 11:14:34 [error] 192#192: *251 web could not be resolved (3: Host not found), client: 83.60.117.94, server: getcaiman.com, request: "GET / HTTP/2.0", host: "getcaiman.com", referrer: "https://nginx.getcaiman.com/"
